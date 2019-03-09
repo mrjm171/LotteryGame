@@ -1,0 +1,2 @@
+# LotteryGame
+Play the lottery!
